@@ -2,7 +2,7 @@ import random
 import re
 import pygame
 
-# Initialize Pygame mixer
+
 pygame.mixer.init()
 
 class Board:
